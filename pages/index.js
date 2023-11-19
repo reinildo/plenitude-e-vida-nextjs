@@ -35,8 +35,7 @@ const Home = ({
         <ImageFallback
           className="absolute bottom-0 left-0 z-[-1] w-full"
           src={"/images/banner-bg.jpg"}
-          width={1905}
-          height={295}
+          fill
           alt="banner-shape"
           priority
         />
