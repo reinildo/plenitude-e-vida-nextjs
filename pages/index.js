@@ -50,26 +50,26 @@ const Home = ({
               </div>
               {markdownify(banner.content, "p", "mt-4")}
               {banner.button.enable && (
-                  <Link
-                    className="btn btn-primary mt-6"
-                    href={banner.button.link}
-                    rel={banner.button.rel}
-                  >
-                    {banner.button.label}
-                  </Link>
+                <Link
+                  className="btn btn-primary mt-6"
+                  href={banner.button.link}
+                  rel={banner.button.rel}
+                >
+                  {banner.button.label}
+                </Link>
               )}
             </div>
             {banner.image_enable && (
-                <div className="col-9 lg:col-6">
-                  <ImageFallback
-                    className="mx-auto object-contain"
-                    src={banner.image}
-                    width={548}
-                    height={443}
-                    priority={true}
-                    alt="Banner Image"
-                  />
-                </div>
+              <div className="col-9 lg:col-6">
+                <ImageFallback
+                  className="mx-auto object-contain"
+                  src={banner.image}
+                  width={548}
+                  height={443}
+                  priority={true}
+                  alt="Banner Image"
+                />
+              </div>
             )}
           </div>
         </div>
@@ -94,10 +94,9 @@ const Home = ({
                           .slice(1, featuredPosts.length)
                           .map((post, i, arr) => (
                             <div
-                              className={`mb-6 flex items-center pb-6 ${
-                                i !== arr.length - 1 &&
+                              className={`mb-6 flex items-center pb-6 ${i !== arr.length - 1 &&
                                 "border-b border-border dark:border-darkmode-border"
-                              }`}
+                                }`}
                               key={`key-${i}`}
                             >
                               {post.frontmatter.image && (
@@ -187,6 +186,7 @@ export const getStaticProps = async () => {
   const { banner, featured_posts, recent_posts, promotion } = frontmatter;
   const posts = getSinglePage(`content/${blog_folder}`);
   const categories = getTaxonomy(`content/${blog_folder}`, "categories");
+  console.log(JSON.stringify(categories, null, 2))
 
   const categoriesWithPostsCount = categories.map((category) => {
     const filteredPosts = posts.filter((post) =>
