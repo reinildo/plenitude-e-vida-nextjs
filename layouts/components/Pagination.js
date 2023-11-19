@@ -19,7 +19,7 @@ const Pagination = ({ section, currentPage, totalPages }) => {
           className="item-center mb-4 flex justify-center space-x-1 lg:space-x-2"
           aria-label="Pagination"
         >
-          {/* previous */}
+          {/* Anterior */}
           {hasPrevPage ? (
             <Link
               href={
@@ -31,14 +31,14 @@ const Pagination = ({ section, currentPage, totalPages }) => {
             >
               <>
                 <BsArrowLeftShort />
-                <span className="ml-3 text-lg ">Previous</span>
+                <span className="ml-3 text-lg ">Anterior</span>
               </>
             </Link>
           ) : (
             <span className="flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light ">
               <>
                 <BsArrowLeftShort />
-                <span className="ml-3 text-lg">Previous</span>
+                <span className="ml-3 text-lg">Anterior</span>
               </>
             </span>
           )}
@@ -77,14 +77,14 @@ const Pagination = ({ section, currentPage, totalPages }) => {
               className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold leading-none text-dark dark:text-darkmode-light"
             >
               <>
-                <span className="mr-3 text-lg">Next</span>
+                <span className="mr-3 text-lg">Próxima</span>
                 <BsArrowRightShort />
               </>
             </Link>
           ) : (
             <span className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light">
               <>
-                <span className="mr-3 text-lg">Next</span>
+                <span className="mr-3 text-lg">Próxima</span>
                 <BsArrowRightShort />
               </>
             </span>

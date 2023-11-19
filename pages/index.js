@@ -186,7 +186,6 @@ export const getStaticProps = async () => {
   const { banner, featured_posts, recent_posts, promotion } = frontmatter;
   const posts = getSinglePage(`content/${blog_folder}`);
   const categories = getTaxonomy(`content/${blog_folder}`, "categories");
-  console.log(JSON.stringify(categories, null, 2))
 
   const categoriesWithPostsCount = categories.map((category) => {
     const filteredPosts = posts.filter((post) =>

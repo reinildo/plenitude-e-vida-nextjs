@@ -5,12 +5,8 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Sobre",
+      "url": "/sobre"
     },
     {
       "name": "Contact",
@@ -22,8 +18,8 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Categorias",
+          "url": "/categorias"
         }
       ]
     }

@@ -13,15 +13,15 @@ banner:
 
 featured_posts:
   enable: true
-  title: Featured Posts
+  title: Posts em destaque
 
 promotion:
-  enable: true
+  enable: false
   image: /images/promotion.png
   link: "#"
 
 recent_posts:
-  title: Recent Posts
+  title: Posts recentes
   enable: true
 
 ---
