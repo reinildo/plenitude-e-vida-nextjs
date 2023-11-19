@@ -1,12 +1,12 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
-  image_enable: true
+  title: Embarque na jornada
+  title_small: de autodescoberta e elevação espiritual
+  content: ""
+  image_enable: false
   image: /images/banner-author.png
   button:
-    enable: true
+    enable: false
     label: Know About Me
     link: /about
     rel: ""
