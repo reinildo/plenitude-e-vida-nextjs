@@ -1,9 +1,14 @@
 html {
-  @apply text-base;
+  @apply text-base h-full;
+}
+
+:root,
+#__next {
+  @apply h-full;
 }
 
 body {
-  @apply bg-body font-primary font-normal leading-relaxed text-text dark:bg-darkmode-body dark:text-darkmode-light;
+  @apply bg-body font-primary font-normal leading-relaxed text-text dark:bg-darkmode-body dark:text-darkmode-light h-full;
 }
 
 h1,
