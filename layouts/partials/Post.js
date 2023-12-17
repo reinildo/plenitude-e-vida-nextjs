@@ -28,7 +28,7 @@ const Post = ({ post }) => {
             >
               <Link
                 className="capitalize"
-                href={`/categories/${tag.replace(" ", "-")}`}
+                href={`/categorias/${tag.replace(" ", "-")}`}
               >
                 {tag}
               </Link>
