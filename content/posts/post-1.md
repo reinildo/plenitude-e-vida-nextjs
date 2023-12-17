@@ -2,16 +2,14 @@
 title: "Reflexões sobre a Vida, a Natureza e a Jornada Espiritual do Homem"
 date: 2023-12-17T11:00:00Z
 image: /images/post/post-1.jpg
-categories: ["reflexao"]
+categories: ["reflexão"]
 featured: true
 draft: false
 ---
 
 
 
-## Reflexões sobre a Vida, a Natureza e a Jornada Espiritual do Homem
-
-A saúde de vocês é como a natureza no início: pura, limpa e bela. Com o tempo, vocês a nutrem com alimentos industrializados.
+A saúde do homem é como a natureza no início: pura, limpa e bela. Com o tempo, vocês a nutrem com alimentos industrializados.
 
 Assim como a natureza recebe das mãos do homem a sua destruição - as queimadas, os desmatamentos e o uso impróprio de tudo que ela oferece - a saúde do homem também se deteriora.
 
