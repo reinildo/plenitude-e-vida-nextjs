@@ -13,8 +13,6 @@ A saúde do homem é como a natureza no início: pura, limpa e bela. Com o tempo
 
 Assim como a natureza recebe das mãos do homem a sua destruição - as queimadas, os desmatamentos e o uso impróprio de tudo que ela oferece - a saúde do homem também se deteriora.
 
-Assim como a natureza sofre nas mãos do homem - com queimadas, desmatamentos e uso indevido de seus recursos - a saúde do homem também se deteriora.
-
 A natureza oferece os frutos e os alimentos adequados para nutrir a saúde do corpo, mas o homem sucumbe às delícias destrutivas dos alimentos impróprios para a sua saúde.
 
 Deus criou a natureza e, junto a ela, o homem para usufruir, criar e evoluir. Harmonicamente e sincronicamente, o homem recebe, usufrui e reconstrói. O homem tem nas mãos de Deus tudo que precisa, na fonte divina e infinita que Deus proporcionou. O homem vem destruindo e acredita estar construindo, inovando, renovando. É um mero engano, nada é do homem, tudo vem de Deus. O homem se ilude com o que possui de capacidade para criar, que vem dele. O que vem através do homem, tudo que há, sabedoria, inteligência, vem de Deus, não do homem.
