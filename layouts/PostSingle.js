@@ -60,7 +60,7 @@ const PostSingle = ({
                       >
                         <Link
                           className="capitalize"
-                          href={`/categories/${tag.replace(" ", "-")}`}
+                          href={`/categorias/${tag.replace(" ", "-")}`}
                         >
                           {tag}
                         </Link>
